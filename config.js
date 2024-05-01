@@ -50,10 +50,10 @@ global.lolhuman = "kushan";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("./Assets/600acde8140ae4701a5d2cc79d72196f.jpg");
+global.Thumb = fs.readFileSync("./Assets/600acde8140ae4701a5d2cc79d72196f.jpg");
+global.Thumb1 = fs.readFileSync("./Assets/600acde8140ae4701a5d2cc79d72196f.jpg");
+global.ErrorPic = fs.readFileSync("./Assets/600acde8140ae4701a5d2cc79d72196f.jpg");
 
 
 //
@@ -86,7 +86,7 @@ global.mess = {
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Wingardium Leviose...',
+  waiting: 'Wingardium Leviosa...',
   nolink: 'Please provide me *link*',
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
