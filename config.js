@@ -21,9 +21,9 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
+global.Owner = ["+6281548909254", "+62815489092544"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+6281548909254", "+62815489092544"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+6281548909254"];
 global.OwnerName = "Keano 乂 Scamander";
 global.BotName = "Newt Scamander";
 global.packname = "by:";                             //Do not change.
@@ -41,8 +41,8 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "mathara, Sri Lankan";
-global.reactmoji = "💞";
+global.location = "9 Sherringford Square";
+global.reactmoji = "🦎";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
@@ -79,15 +79,15 @@ global.ntilink = []
 
 //
 global.mess = {
-  jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+  jobdone: 'here you go..',
+  useradmin: 'uh,im sorry. but just only *Group Admin* can use this command!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
+  botowner: 'Only my *Owner* can use this command,',
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  waiting: 'Wingardium Leviose...',
+  nolink: 'Please provide me *link*',
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
